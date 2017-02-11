@@ -1,0 +1,112 @@
+{
+  "project_info": {
+    "project_number": "603884332149",
+    "firebase_url": "https://admob-app-id-3459936797-7348c.firebaseio.com",
+    "project_id": "admob-app-id-3459936797-7348c",
+    "storage_bucket": "admob-app-id-3459936797-7348c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:603884332149:android:f4de66f0e2e0f8d4",
+        "android_client_info": {
+          "package_name": "com.Fisherman.Greekwpa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "603884332149-4jph66i5dc9kpbjhe76pugcof46kfq12.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyMeDPv6ZRAR9xypSLRLdM3D_oHulkb7s"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:603884332149:android:191b6f3a236c4061",
+        "android_client_info": {
+          "package_name": "com.fisherman.shredometer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "603884332149-qudaugd0hq05dblur28924shtljg3lmc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fisherman.shredometer",
+            "certificate_hash": "BBBF868B30C6C72915F3C94B00622A891B7622C5"
+          }
+        },
+        {
+          "client_id": "603884332149-4jph66i5dc9kpbjhe76pugcof46kfq12.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyMeDPv6ZRAR9xypSLRLdM3D_oHulkb7s"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:603884332149:android:76c0390116ddc21f",
+        "android_client_info": {
+          "package_name": "com.fisherman.wifisherlock"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "603884332149-4jph66i5dc9kpbjhe76pugcof46kfq12.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyMeDPv6ZRAR9xypSLRLdM3D_oHulkb7s"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

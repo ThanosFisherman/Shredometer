@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <style name="Theme.Shredometer" parent="@style/Theme.AppCompat">
+        <item name="colorPrimary">@color/primary_color</item>
+        <item name="colorPrimaryDark">@color/primary_dark_color</item>
+        <item name="colorAccent">@color/primary_color</item>
+        <!--<item name="android:windowBackground">@drawable/backtexture</item>-->
+        <item name="android:textColor">#FFFFFF</item>
+    </style>
+
+    <style name="MyDialogStyle" parent="Theme.AppCompat.Dialog.Alert">
+        <!-- Used for the buttons -->
+        <item name="colorAccent">@color/primary_color</item>
+        <item name="colorControlNormal">@color/primary_color</item>
+        <!-- Used for the title and text -->
+        <item name="android:textColorPrimary">@color/grey_200</item>
+        <!-- Used for the Title color -->
+        <item name="android:windowTitleStyle">@style/MyTitleTextStyle</item>
+        <!-- Used for the background -->
+        <item name="android:background">@color/dark_gray</item>
+    </style>
+
+    <style name="MyTitleTextStyle">
+        <item name="android:textColor">@color/primary_color</item>
+        <item name="android:textAppearance">@style/TextAppearance.AppCompat.Title</item>
+    </style>
+</resources>
